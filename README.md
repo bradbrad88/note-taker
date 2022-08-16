@@ -10,6 +10,8 @@ A note taking application designed to assist users with a busy schedule.
 
 Create new notes easily and access them wherever you go.
 
+[Live site](https://brad-teague-note-taker.herokuapp.com)
+
 [Github repository](https://github.com/bradbrad88/note-taker)
 
 ![screenshot](./assets/screenshot.png)
